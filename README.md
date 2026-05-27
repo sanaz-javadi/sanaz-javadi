@@ -25,13 +25,6 @@ I care about building frontend systems that are fast, clean, and hold up under r
 
 ---
 
-## 💼 Now
-
-- Frontend Engineer (e-commerce systems)  
-- Freelance: Micro-frontend system (Germany)
-
----
-
 ## 📫 Contact
 
 - Email: sanaz.jvd72@gmail.com  
